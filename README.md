@@ -18,9 +18,9 @@ Each page has a header and a footer which is enclosed in partials.
 
 To obtain the pages with page authentication, routes and models are scripted in Javascript using campground.js, commnet.js, user.js.
 
-<h6>Languages used</h6>- JavaScript, HTML5, CSS3 
+<h4>Languages used</h4>- JavaScript, HTML5, CSS3 
 
-Libraries- jQuery
+<h4>Libraries</h4>- jQuery
 
 Tools and Technologies- Bootstrap 4, Semantic UI, DOM Manipulation, RESTful APIs, Authentication, Authorization
 
