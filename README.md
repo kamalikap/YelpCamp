@@ -22,7 +22,7 @@ To obtain the pages with page authentication, routes and models are scripted in 
 
 <h4>Library</h4>jQuery
 
-<h4>Tools and Technologies</h4>Bootstrap 4, Semantic UI, DOM Manipulation, RESTful APIs, Authentication, Authorization
+<h4>Tools and Technologies</h4>Bootstrap 4, Semantic UI, HTTP Protocol, DOM Manipulation, RESTful APIs, Authentication, Authorization
 
 <h4>Backend</h4>NodeJS, ExpressJS,PassportJS 
 
